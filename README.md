@@ -1,4 +1,4 @@
-# Telegram_fun_bot
+# Telegram fun bot
  Простой бот в телеграмм созданный по образу и подобию @vsratoslavbot реализованный на Python 3.*
  
 ## Бот умеет:
